@@ -1,0 +1,23 @@
+C:\MySight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\AGIT.DSS.LeadIntelligence.ConsoleProject.exe.config
+C:\MySight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\AGIT.DSS.LeadIntelligence.ConsoleProject.exe
+C:\MySight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\AGIT.DSS.LeadIntelligence.ConsoleProject.pdb
+C:\MySight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\AGIT.DSS.LeadIntelligence.Library.dll
+C:\MySight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\ClosedXML.dll
+C:\MySight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\AGIT.DSS.LeadIntelligence.Library.pdb
+C:\MySight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\ClosedXML.pdb
+C:\MySight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\ClosedXML.xml
+C:\MySight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\obj\Debug\AGIT.DSS.LeadIntelligence.ConsoleProject.csprojResolveAssemblyReference.cache
+C:\MySight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\obj\Debug\AGIT.DSS.LeadIntelligence.ConsoleProject.exe
+C:\MySight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\obj\Debug\AGIT.DSS.LeadIntelligence.ConsoleProject.pdb
+C:\Users\Najib\Documents\AGIT\Customer Insight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\AGIT.DSS.LeadIntelligence.ConsoleProject.exe.config
+C:\Users\Najib\Documents\AGIT\Customer Insight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\AGIT.DSS.LeadIntelligence.ConsoleProject.exe
+C:\Users\Najib\Documents\AGIT\Customer Insight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\AGIT.DSS.LeadIntelligence.ConsoleProject.pdb
+C:\Users\Najib\Documents\AGIT\Customer Insight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\AGIT.DSS.LeadIntelligence.Library.dll
+C:\Users\Najib\Documents\AGIT\Customer Insight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\ClosedXML.dll
+C:\Users\Najib\Documents\AGIT\Customer Insight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Najib\Documents\AGIT\Customer Insight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\AGIT.DSS.LeadIntelligence.Library.pdb
+C:\Users\Najib\Documents\AGIT\Customer Insight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\ClosedXML.pdb
+C:\Users\Najib\Documents\AGIT\Customer Insight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\bin\Debug\ClosedXML.xml
+C:\Users\Najib\Documents\AGIT\Customer Insight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\obj\Debug\AGIT.DSS.LeadIntelligence.ConsoleProject.csprojResolveAssemblyReference.cache
+C:\Users\Najib\Documents\AGIT\Customer Insight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\obj\Debug\AGIT.DSS.LeadIntelligence.ConsoleProject.exe
+C:\Users\Najib\Documents\AGIT\Customer Insight\Code\DSS - Lead Intelligence\AGIT.DSS.LeadIntelligence\AGIT.DSS.LeadIntelligence.ConsoleProject\obj\Debug\AGIT.DSS.LeadIntelligence.ConsoleProject.pdb

@@ -1,0 +1,107 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI.BigData.TestConsole", "AI.BigData\AI.BigData.TestConsole.csproj", "{E9C59F0E-94ED-4C30-93B7-E8776EF72536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGIT.Sevasight.DummyWEBApi", "AI.ADP.DummyWebAPI\AGIT.Sevasight.DummyWEBApi.csproj", "{AC28FE5F-B718-4908-9A88-92729375ABA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGIT.SevaSight.DataAccess", "AI.ADP.DataAccess\AGIT.SevaSight.DataAccess.csproj", "{1D6F2629-8FBD-4148-BA7A-92DAF4D9340B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGIT.SevaSight.Business", "AI.ADP.Business\AGIT.SevaSight.Business.csproj", "{A0C422A6-E12C-44F1-99DF-3385BA92C1FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGIT.SevaSight.DomainObject", "AI.ADP.DomainObject\AGIT.SevaSight.DomainObject.csproj", "{E66ADBFC-AAA6-4CA3-8B72-B778B0D35C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI.BigData.TestWeb", "AI.BigData.TestWeb\AI.BigData.TestWeb.csproj", "{B012AB27-86BA-48DB-80A7-E190BC1B3966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI.BigData.TestWebForm", "AI.BigData.TestWebForm\AI.BigData.TestWebForm.csproj", "{7F301910-3602-43D2-8CED-76794CC691A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI.ADP.GeneratorExcel", "AI.ADP.GeneratorExcel\AI.ADP.GeneratorExcel.csproj", "{FB688668-ECAE-40F2-B94C-5932DE61F35D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "AI.ADP.GeneratorExcelConsoleApp\ConsoleApplication1.csproj", "{9C85ADCE-5811-4443-A8B3-DF5B9C63AC46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGIT.Sevasight.Leads", "AI.ADP.UpdateOpportunity\AGIT.Sevasight.Leads.csproj", "{622E1852-4D61-4E58-8147-D777F34EB45A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9C59F0E-94ED-4C30-93B7-E8776EF72536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C59F0E-94ED-4C30-93B7-E8776EF72536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C59F0E-94ED-4C30-93B7-E8776EF72536}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C59F0E-94ED-4C30-93B7-E8776EF72536}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{AC28FE5F-B718-4908-9A88-92729375ABA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC28FE5F-B718-4908-9A88-92729375ABA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC28FE5F-B718-4908-9A88-92729375ABA2}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC28FE5F-B718-4908-9A88-92729375ABA2}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{1D6F2629-8FBD-4148-BA7A-92DAF4D9340B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6F2629-8FBD-4148-BA7A-92DAF4D9340B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6F2629-8FBD-4148-BA7A-92DAF4D9340B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6F2629-8FBD-4148-BA7A-92DAF4D9340B}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{A0C422A6-E12C-44F1-99DF-3385BA92C1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C422A6-E12C-44F1-99DF-3385BA92C1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C422A6-E12C-44F1-99DF-3385BA92C1FA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C422A6-E12C-44F1-99DF-3385BA92C1FA}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{E66ADBFC-AAA6-4CA3-8B72-B778B0D35C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66ADBFC-AAA6-4CA3-8B72-B778B0D35C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66ADBFC-AAA6-4CA3-8B72-B778B0D35C24}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66ADBFC-AAA6-4CA3-8B72-B778B0D35C24}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{B012AB27-86BA-48DB-80A7-E190BC1B3966}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{B012AB27-86BA-48DB-80A7-E190BC1B3966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F301910-3602-43D2-8CED-76794CC691A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F301910-3602-43D2-8CED-76794CC691A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F301910-3602-43D2-8CED-76794CC691A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F301910-3602-43D2-8CED-76794CC691A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB688668-ECAE-40F2-B94C-5932DE61F35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB688668-ECAE-40F2-B94C-5932DE61F35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB688668-ECAE-40F2-B94C-5932DE61F35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB688668-ECAE-40F2-B94C-5932DE61F35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C85ADCE-5811-4443-A8B3-DF5B9C63AC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C85ADCE-5811-4443-A8B3-DF5B9C63AC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C85ADCE-5811-4443-A8B3-DF5B9C63AC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C85ADCE-5811-4443-A8B3-DF5B9C63AC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622E1852-4D61-4E58-8147-D777F34EB45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622E1852-4D61-4E58-8147-D777F34EB45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622E1852-4D61-4E58-8147-D777F34EB45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622E1852-4D61-4E58-8147-D777F34EB45A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 10
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://atlantica.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AI.ADP.Business\\AGIT.SevaSight.Business.csproj
+		SccProjectName1 = AI.ADP.Business
+		SccLocalPath1 = AI.ADP.Business
+		SccProjectUniqueName2 = AI.ADP.DataAccess\\AGIT.SevaSight.DataAccess.csproj
+		SccProjectName2 = AI.ADP.DataAccess
+		SccLocalPath2 = AI.ADP.DataAccess
+		SccProjectUniqueName3 = AI.ADP.DomainObject\\AGIT.SevaSight.DomainObject.csproj
+		SccProjectName3 = AI.ADP.DomainObject
+		SccLocalPath3 = AI.ADP.DomainObject
+		SccProjectUniqueName4 = AI.ADP.DummyWebAPI\\AGIT.Sevasight.DummyWEBApi.csproj
+		SccProjectName4 = AI.ADP.DummyWebAPI
+		SccLocalPath4 = AI.ADP.DummyWebAPI
+		SccProjectUniqueName5 = AI.ADP.GeneratorExcel\\AI.ADP.GeneratorExcel.csproj
+		SccProjectName5 = AI.ADP.GeneratorExcel
+		SccLocalPath5 = AI.ADP.GeneratorExcel
+		SccProjectUniqueName6 = AI.ADP.GeneratorExcelConsoleApp\\ConsoleApplication1.csproj
+		SccProjectName6 = AI.ADP.GeneratorExcelConsoleApp
+		SccLocalPath6 = AI.ADP.GeneratorExcelConsoleApp
+		SccProjectUniqueName7 = AI.BigData.TestWeb\\AI.BigData.TestWeb.csproj
+		SccProjectName7 = AI.BigData.TestWeb
+		SccLocalPath7 = AI.BigData.TestWeb
+		SccProjectUniqueName8 = AI.BigData\\AI.BigData.TestConsole.csproj
+		SccProjectName8 = AI.BigData
+		SccLocalPath8 = AI.BigData
+		SccProjectUniqueName9 = AI.ADP.UpdateOpportunity\\AGIT.Sevasight.Leads.csproj
+		SccProjectName9 = AI.ADP.UpdateOpportunity
+		SccLocalPath9 = AI.ADP.UpdateOpportunity
+	EndGlobalSection
+EndGlobal

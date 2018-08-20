@@ -1,0 +1,35 @@
+﻿@{
+    
+    @model AI.ADP.UpdateOpportunity.Models.RetrieveOrderStatus
+}
+
+@using (Html.BeginForm("getOrderStatus", "GetOrderStatus"))
+{
+        
+            <h2>Input Date </h2>
+          <br /><br />
+            <label>Date From</label>
+            <input type="datetime-local" name="request.RequestOrderStatus.dateFrom" />
+
+            <label>Date To</label>
+            <input type="datetime-local" name="request.RequestOrderStatus.dateTo" />
+               <br />            <br />
+            <input class="button" id="submit" type="submit" value="GetOrderStatus" />
+            <br /><br />
+
+ 
+
+}
+
+
+@using (Html.BeginForm("updateOpportunity", "GetOrderStatus"))
+{
+
+            <input class="button" id="submit" type="submit" value="UpdateOpportunity" />
+
+
+}
+
+
+
+
